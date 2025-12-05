@@ -1,3 +1,5 @@
+@owner PriyanshiGupta
+
 #include <Wire.h>          // Required for I2C communication
 #include <Adafruit_GFX.h>  // Core graphics library
 #include <Adafruit_SSD1306.h> // Hardware-specific driver for SSD1306
